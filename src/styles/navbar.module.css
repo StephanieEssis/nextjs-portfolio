@@ -1,14 +1,7 @@
-nav {
-    background-color: #333;
-    padding: 10px;
-  }
-  ul {
-    list-style: none;
-    display: flex;
-    gap: 15px;
-  }
-  li a {
-    color: white;
-    text-decoration: none;
-  }
-  
+.navbar {
+  background-color: #333;
+}
+
+.link {
+  color: white;
+}
