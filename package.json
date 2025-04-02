@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "vercel-build": "npm install"
+    "vercel-build": "next build && npm install"
   },
   "dependencies": {
     "react": "^19.0.0",
